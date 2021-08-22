@@ -1,0 +1,26 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Learn Python"
+    },
+    {
+      "id": 2,
+      "title": "Learn Javascript"
+    }
+  ],
+  "chapters": [
+    {
+      "bookId": 1,
+      "title": "Why Python?"
+    },
+    {
+      "bookId": 1,
+      "title": "Loop"
+    },
+    {
+      "bookId": 2,
+      "title": "Javascript and Browser"
+    }
+  ]
+}
